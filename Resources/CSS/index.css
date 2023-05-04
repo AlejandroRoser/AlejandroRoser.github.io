@@ -1,0 +1,27 @@
+
+  header{
+    font-family: "Helvetica",sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../Images/pattern.jpeg)
+  }
+  h2 {
+    font-family: "Helvetica",sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+  }
+  .price_highlight{
+    font-family: "Helvetica",sans-serif;
+    font-weight: bold;
+    color: blue;
+  }
+  .section2_header{
+    background-color: lightcoral;
+  }
+  .section3_header{
+    background-color: skyblue;
+  } 
